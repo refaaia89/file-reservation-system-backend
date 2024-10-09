@@ -1,4 +1,4 @@
-# internet_application
+# File Reservation System Backend
 
 Reservation system built by spring boot.
 
